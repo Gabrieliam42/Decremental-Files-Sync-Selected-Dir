@@ -1,7 +1,7 @@
 Note: This Python script has been compiled as a executable file and works on Windows operating systems.
 
 
-Therefore "Decremental Files Sync Selected Dir Win.exe" would perform the following actions:
+Therefore "Decremental_Files_Sync_Selected_Dir_Win.exe" would perform the following actions:
 
 1. It starts by prompting the user to select a Source directory, and then it asks the user to select a Destination dir.
 
